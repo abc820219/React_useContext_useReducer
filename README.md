@@ -11,5 +11,5 @@
 
 ## 使用useContext
 -引入定義的createContext創建MyContext<br>
--使用使用useContext(MyContext)就可解構出在更組件value裡面傳遞的參數<br>
+-使用使用useContext(MyContext)就可解構出在root組件value裡面傳遞的參數<br>
 -在使用傳過來的reducer派發函式去作操作即可<br>
